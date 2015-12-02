@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "日本語タイトル"
+date:   2015-12-02 22:54:37 +0900
+categories: jekyll update
+---
+
+画像をおいてみよう
+
+* aaa
+* bbb
+* ccc
+
+![]({{site.baseurl}}/images/temp/screenshot.jpg)
+
+画像とテキストとコードが置ければ、それでいい

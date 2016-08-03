@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "i am"
+title:  "Get Started"
 date:   2015-12-02 22:54:37 +0900
 categories: jekyll update
 ---
@@ -16,6 +16,8 @@ and includes the necessary front matter.
 Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
+
+ハイライトはこう書くのね
 
 {% highlight ruby %}
 def print_hi(name)
